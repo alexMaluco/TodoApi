@@ -1,6 +1,7 @@
 {
   "version": 3,
   "targets": {
+<<<<<<< HEAD
     ".NETCoreApp,Version=v3.1": {
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
@@ -5675,6 +5676,13 @@
       "Microsoft.EntityFrameworkCore.InMemory >= 3.1.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.8"
     ]
+=======
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+>>>>>>> c4c8c6ce3f0ec7e3d2cd1af7c87e34513f4a13bc
   },
   "packageFolders": {
     "/home/alex/.nuget/packages/": {}
@@ -5710,6 +5718,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+<<<<<<< HEAD
         "dependencies": {
           "Microsoft.EntityFrameworkCore.InMemory": {
             "target": "Package",
@@ -5720,6 +5729,8 @@
             "version": "[3.1.8, )"
           }
         },
+=======
+>>>>>>> c4c8c6ce3f0ec7e3d2cd1af7c87e34513f4a13bc
         "imports": [
           "net461",
           "net462",

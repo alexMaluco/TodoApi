@@ -35,6 +35,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+<<<<<<< HEAD
           "dependencies": {
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
@@ -45,6 +46,8 @@
               "version": "[3.1.8, )"
             }
           },
+=======
+>>>>>>> c4c8c6ce3f0ec7e3d2cd1af7c87e34513f4a13bc
           "imports": [
             "net461",
             "net462",

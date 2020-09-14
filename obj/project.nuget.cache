@@ -1,6 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "8Ez1PSa3juA15+HEstpdPCnYsKJM4oFAk41Kk4LBCG0vAX7wIUaBh05AEOKhItjg7bLIVIyewmgIh+RYXR8zIQ==",
   "success": true,
   "projectFilePath": "/home/alex/Documentos/TodoApi/TodoApi.csproj",
@@ -105,11 +104,5 @@
     "/home/alex/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/home/alex/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-=======
-  "dgSpecHash": "EZfm+elIos+sUP6npBiAB7VID51M/0howAdbYv5dXaPflp11Ev6mivCf9ZVMXVXfvyk8iQdSPY8Z4YDkGttcgQ==",
-  "success": true,
-  "projectFilePath": "/home/alex/Documentos/TodoApi/TodoApi.csproj",
-  "expectedPackageFiles": [],
->>>>>>> c4c8c6ce3f0ec7e3d2cd1af7c87e34513f4a13bc
   "logs": []
 }
